@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Результат умножения через BigInteger равен " + result2);
         System.out.println("Результат умножения через рекурсию равен " + result3);
         System.out.println("Результат умножения через метод multiplyExact() равен " + result4);
-        System.out.println("Результат умножения через побитовые операции равен " + result5);
+        System.out.println("Результат умножения методом русского крестьянина равен " + result5);
     }
 
     public static int cicle(int a, int b) {
